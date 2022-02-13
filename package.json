@@ -1,0 +1,14 @@
+{
+  "name": "evive-menu-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "system.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
